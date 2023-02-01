@@ -12,3 +12,8 @@ Product Owner: Sets direction for team, handles release management and stakehold
 -Daily Scurm Meeting: discuss work completed, discuss work plan for day and blockers
 -Sprint Retrospective meeting: discuss work complete, discuss incomplete work to backlog, close sprint
 
+Epic vs Story vs Bug vs Task:
+Epic: capture large body of work broken into smaller stories
+Story: software system requirement expressed in few short sentences
+Task: task needed to be done for a story
+Bug: issue that has come up while in progress

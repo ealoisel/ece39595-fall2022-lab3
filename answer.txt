@@ -6,3 +6,9 @@ Cons: May add too many things and not able to meet deadline properly
 Role of Scrum Master v Product Owner:
 Scrum Master: Does all Scrum related tasks - JIRA tooling, facilitating sprints and meetings, and standups
 Product Owner: Sets direction for team, handles release management and stakeholder management
+
+3 types of meetings:
+-Sprint Planning Meeting: determine what to complete in upcoming sprint, start sprint, determine story points
+-Daily Scurm Meeting: discuss work completed, discuss work plan for day and blockers
+-Sprint Retrospective meeting: discuss work complete, discuss incomplete work to backlog, close sprint
+

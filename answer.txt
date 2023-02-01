@@ -1,1 +1,4 @@
-
+Pros vs Cons of Agile Dev:
+Pros: More resilient to scope changes in project, iterative approach, breaks project into several
+stages, constant value add to customer
+Cons: May add too many things and not able to meet deadline properly
